@@ -13,14 +13,62 @@
       "id": 6
     }
   ],
-  "comments": [
+  "cars": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "brand": "BMW",
+      "type": "Automated",
+      "year": "2022",
+      "kms": "10",
+      "description": "Super Fast",
+      "price": "120000",
+      "id": 2
+    },
+    {
+      "brand": "Maruthi",
+      "type": "Automated",
+      "year": "2020",
+      "kms": "10",
+      "description": "TikTok",
+      "price": "15055",
+      "id": 4
+    },
+    {
+      "brand": "Maruthi",
+      "type": "Automated",
+      "year": "2021",
+      "kms": "33",
+      "description": "d",
+      "price": "150",
+      "id": 5
+    },
+    {
+      "brand": "Audi",
+      "type": "Automated",
+      "year": "2020",
+      "kms": "8",
+      "description": "Heelo",
+      "price": "56",
+      "id": 6
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "brand": "Maruthi",
+      "type": "Automated",
+      "year": "2020",
+      "kms": "10",
+      "description": "TikTok",
+      "price": "15055",
+      "id": 4
+    }
+  ]
 }
