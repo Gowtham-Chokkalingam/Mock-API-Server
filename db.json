@@ -1,4 +1,19 @@
 {
+  "users": [
+    {
+      "title": "Hacker",
+      "description": "TikTok",
+      "priority": "High",
+      "id": 1
+    },
+    {
+      "userName": "Gowtham",
+      "email": "gowthamtceian@gmail.com",
+      "password": "12",
+      "userId": 1673077242864,
+      "id": 2
+    }
+  ],
   "tasks": [
     {
       "title": "Hacker",
@@ -20,25 +35,25 @@
       "year": "2022",
       "kms": "10",
       "description": "Super Fast",
-      "price": "120000",
+      "price": "120008",
       "id": 2
     },
     {
-      "brand": "Maruthi",
-      "type": "Automated",
-      "year": "2020",
-      "kms": "10",
-      "description": "TikTok",
-      "price": "15055",
-      "id": 4
-    },
-    {
-      "brand": "Maruthi",
+      "brand": "Tata",
       "type": "Automated",
       "year": "2021",
       "kms": "33",
-      "description": "d",
-      "price": "150",
+      "description": "Super Fast",
+      "price": "160",
+      "id": 4
+    },
+    {
+      "brand": "Tata",
+      "type": "Automated",
+      "year": "2021",
+      "kms": "33",
+      "description": "Super Fast",
+      "price": "160",
       "id": 5
     },
     {
