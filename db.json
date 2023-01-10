@@ -1,17 +1,86 @@
 {
+  "dogs": [
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Four",
+      "age": 300,
+      "place": "Hydrabad",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Tommy",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Four",
+      "age": 300,
+      "place": "Hydrabad",
+      "gender": "Male"
+    },
+    {
+      "id": 9,
+      "name": "Tommy",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    }
+  ],
   "users": [
     {
-      "title": "Hacker",
-      "description": "TikTok",
-      "priority": "High",
+      "firstName": "Gowtham",
+      "lastName": "C",
+      "email": "gowtham@gmail.com",
+      "password": "12",
+      "UserId": "CeKvkYiu3N8eXucbxmn-8",
       "id": 1
     },
     {
-      "userName": "Gowtham",
-      "email": "gowthamtceian@gmail.com",
+      "firstName": "Madhu",
+      "lastName": "T",
+      "email": "madhu@gmail.com",
       "password": "12",
-      "userId": 1673077242864,
+      "UserId": "9FwGkmlcAYdvhI6ovZcoE",
       "id": 2
+    },
+    {
+      "name": "Gowtham",
+      "age": "27",
+      "place": "s",
+      "gender": "Male",
+      "UserId": "FEnvPnrjBK8CNdSuW4flY",
+      "id": 3
     }
   ],
   "tasks": [
